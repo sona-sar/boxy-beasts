@@ -1,2 +1,3 @@
-# Sokoban in 3D
-<img width="884" alt="image" src="https://github.com/user-attachments/assets/dc22c59f-b31a-4b6c-b822-4824df066b9e" />
+# Boxy Beasts
+<img width="884" alt="image" src="![image](https://github.com/user-attachments/assets/0d1c45e0-a1a6-4e11-826c-6d3828d44b52)
+"/>
