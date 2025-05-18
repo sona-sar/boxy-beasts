@@ -9,6 +9,7 @@ Boxy Beasts is a 3D Sokoban-style puzzle game with a thematic twist—cute anima
 - UI Sounds: [Fast UI Sounds – SLD Audio](https://assetstore.unity.com/packages/audio/sound-fx/fast-ui-sounds-sound-effects-292588)
 - Background Music: [Casual & Relaxing Game Music Pack – SLD Audio](https://assetstore.unity.com/packages/audio/music/free-casual-relaxing-game-music-pack-262740)
 
+## Screenshots
 <p align="left">
   <img src="/images/1.png" width="30%" />
   <img src="/images/2.png" width="30%" />
